@@ -1,0 +1,78 @@
+{
+    "chapter-living":[
+       {
+          "BRONZE ENSUITE":[
+             {
+                "Room_number":"7.28",
+                "building":"Chapter Kings Cross",
+                "rent":"\u00a3480.00/Wk",
+                "deposit":"\u00a30.00",
+                "amenities":"Upper",
+                "space":"A",
+                "status":"Available",
+                "payment_plan_options":[
+                   "Instalment Plan 1",
+                   "Instalment Plan 2",
+                   "Instalment Plan 4"
+                ]
+             },
+             {
+                "Room_number":"7.30",
+                "building":"Chapter Kings Cross",
+                "rent":"\u00a3480.00/Wk",
+                "deposit":"\u00a30.00",
+                "amenities":"Upper",
+                "space":"A",
+                "status":"Available",
+                "payment_plan_options":[
+                   "Instalment Plan 1",
+                   "Instalment Plan 2",
+                   "Instalment Plan 4"
+                ]
+             },
+             {
+                "Room_number":"7.31",
+                "building":"Chapter Kings Cross",
+                "rent":"\u00a3480.00/Wk",
+                "deposit":"\u00a30.00",
+                "amenities":"Upper",
+                "space":"A",
+                "status":"Available",
+                "payment_plan_options":[
+                   "Instalment Plan 1",
+                   "Instalment Plan 2",
+                   "Instalment Plan 4"
+                ]
+             },
+             {
+                "Room_number":"7.41",
+                "building":"Chapter Kings Cross",
+                "rent":"\u00a3480.00/Wk",
+                "deposit":"\u00a30.00",
+                "amenities":"Upper",
+                "space":"A",
+                "status":"Available",
+                "payment_plan_options":[
+                   "Instalment Plan 1",
+                   "Instalment Plan 2",
+                   "Instalment Plan 4"
+                ]
+             },
+             {
+                "Room_number":"7.42",
+                "building":"Chapter Kings Cross",
+                "rent":"\u00a3480.00/Wk",
+                "deposit":"\u00a30.00",
+                "amenities":"Upper",
+                "space":"A",
+                "status":"Available",
+                "payment_plan_options":[
+                   "Instalment Plan 1",
+                   "Instalment Plan 2",
+                   "Instalment Plan 4"
+                ]
+             }
+          ]
+       }
+    ]
+ }
